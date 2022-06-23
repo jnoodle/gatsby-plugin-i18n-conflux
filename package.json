@@ -33,7 +33,7 @@
     "babel-eslint": "^8.0.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "codecov": "^3.0.0",
+    "codecov": "^3.8.3",
     "eslint": "^4.8.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-config-standard-react": "^5.0.0",
